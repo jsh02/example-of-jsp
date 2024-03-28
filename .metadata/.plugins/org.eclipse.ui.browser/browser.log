@@ -1,0 +1,11 @@
+
+3월 03, 2024 19:40:50.58 NEW SESSION
+3월 03, 2024 19:40:50.58 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 03, 2024 19:47:13.80 [8704:16196:0303/194713.805:ERROR:device_event_log_impl.cc(192)] [19:47:13.807] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 03, 2024 19:47:20.36 [8704:16196:0303/194720.364:ERROR:device_event_log_impl.cc(192)] [19:47:20.365] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 03, 2024 19:47:20.37 [8704:16196:0303/194720.379:ERROR:device_event_log_impl.cc(192)] [19:47:20.380] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: 사용 가능한 데이터가 없습니다. (0x103)
+3월 03, 2024 21:06:50.18 [8704:10492:0303/210650.180:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+3월 04, 2024 08:37:37.16 [8704:10492:0304/083736.895:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -7
+3월 04, 2024 08:37:37.16 [8704:14660:0304/083736.911:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+3월 04, 2024 08:37:39.46 [8704:10492:0304/083739.461:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -106
+3월 04, 2024 09:16:42.24 [8704:10492:0304/091642.244:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2

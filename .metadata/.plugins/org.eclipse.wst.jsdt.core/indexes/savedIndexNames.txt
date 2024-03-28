@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\dandy\OneDrive\바탕 화면\코딩\projects\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4111981468.index
+1834061964.index
+4163244829.index
+3408776027.index
+356393106.index
+3819707233.index
